@@ -1,0 +1,71 @@
+<html>
+
+<head>
+  <script src="./vue2.js"></script>
+  <script src="./httpVue3Loader.js"></script>
+  <style type="text/css">
+    * {
+      padding: 0;
+      margin: 0;
+    }
+
+    #root {
+      /* When this is relative, child elements positioned absolutely will
+         be relative to this element, not the document providing more accurate
+         positioning, since the canvas will be at (0, 0) */
+      width: 100%;
+      height: 100%;
+      color: #d5d5d5;
+      background-color: #474747;
+    }
+
+    #root #vue-app {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      box-sizing: border-box;
+      padding: 10px 0;
+    }
+
+    #root #vue-app .container {
+      width: 100%;
+      height: 100%;
+      background-color: #252525;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 15px;
+    }
+
+    #root #ui.MainMenu span {
+      display: flex;
+    }
+
+    /* These are scene-based UI styles */
+    #ui.MainMenu .button.button--start {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Define a wrapping element, in case you want to customize positions -->
+
+  <div id="root">
+    <div id="vue-app">
+      <vue-app></vue-app>
+      <div class="container">
+        <canvas id="game"></canvas>
+      </div>
+      <div id="ui" style="width: 500px">
+        <vue-app-r></vue-app-r>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

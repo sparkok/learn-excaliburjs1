@@ -1,0 +1,279 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "office/office1.tmx",
+    "expandedProjectPaths": [
+        "office2",
+        ".",
+        "office"
+    ],
+    "file.lastUsedOpenFilter": "全部文件 (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "E:/program/we-isometric/2d-scene-editor/dist/public/office.tmx": {
+            "scale": 0.20558593749999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1218.4685540566218,
+                "y": 462.09386281588456
+            }
+        },
+        "E:/program/we-isometric/2d-scene-editor/dist/public/office.tmx#carpet": {
+            "scaleInDock": 1
+        },
+        "E:/program/we-isometric/2d-scene-editor/dist/public/office.tmx#chair": {
+            "scaleInDock": 1
+        },
+        "E:/program/we-isometric/2d-scene-editor/dist/public/office.tmx#cubicles": {
+            "scaleInDock": 1
+        },
+        "E:/program/we-isometric/2d-scene-editor/dist/public/office/carpet.json": {
+            "scaleInDock": 1
+        },
+        "E:/program/we-isometric/2d-scene-editor/dist/public/office/chair.json": {
+            "scaleInDock": 1
+        },
+        "example-isometric.tmx": {
+            "scale": 0.5291796875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 700.140252454418,
+                "y": 323.1416549789621
+            }
+        },
+        "example-isometric.tmx#carpet": {
+            "scaleInDock": 1
+        },
+        "example-isometric.tmx#chair": {
+            "scaleInDock": 1
+        },
+        "example-isometric.tmx#cubicles": {
+            "scaleInDock": 1
+        },
+        "factory/h型钢.tmx": {
+            "scale": 0.285,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 963.1578947368421,
+                "y": 480.70175438596493
+            }
+        },
+        "office/carpet.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office/carton.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office/chair.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office/door.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "office/grid.tsj": {
+            "scaleInDock": 1
+        },
+        "office/installer.json": {
+            "scaleInDock": 1
+        },
+        "office/my-cubicles.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "office/new-office.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "office/office.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 572.6666666666666,
+                "y": 229.33333333333334
+            }
+        },
+        "office/office.tmx#carpet": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "office/office.tmx#chair": {
+            "scaleInDock": 1
+        },
+        "office/office.tmx#cubicles": {
+            "scaleInDock": 0.5
+        },
+        "office/office1.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 345,
+                "y": 165
+            }
+        },
+        "office/office1.tmx#carpet": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "office/office1.tmx#chair": {
+            "scaleInDock": 1
+        },
+        "office/office1.tmx#cubicles": {
+            "scaleInDock": 1
+        },
+        "office/office2.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1146,
+                "y": 861
+            }
+        },
+        "office/office3.tmx": {
+            "scale": 0.8541103017689906,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 299.72709551656914,
+                "y": 477.6900584795322
+            }
+        },
+        "office/office4.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1324,
+                "y": 1021.3333333333333
+            }
+        },
+        "office/office5.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 643.3333333333333,
+                "y": 646.6666666666666
+            }
+        },
+        "office/roadTiles.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "office/safety_pin3.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "office/t.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office/test1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 783,
+                "y": 383
+            }
+        },
+        "office/video-mini.tsj": {
+            "scaleInDock": 0.5
+        },
+        "office/wall.json": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "office/制氧厂5号1层.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 457.5,
+                "y": 287
+            }
+        },
+        "office/制氧厂5号_1层.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 992.3333333333333,
+                "y": 247.33333333333331
+            }
+        },
+        "office2/carpet.json": {
+            "scaleInDock": 1
+        },
+        "office2/chair.json": {
+            "scaleInDock": 1
+        },
+        "office2/office.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 403.5,
+                "y": 158
+            }
+        },
+        "office2/office.tmx#carpet": {
+            "scaleInDock": 1
+        },
+        "office2/office.tmx#chair": {
+            "scaleInDock": 1
+        },
+        "office2/office.tmx#cubicles": {
+            "scaleInDock": 0.25
+        }
+    },
+    "last.externalTilesetPath": "E:/program/we-2d-scene/we-2d-scene-editor/2d-scene-provider/public/office",
+    "last.imagePath": "E:/program/we-2d-scene/we-2d-scene-editor/2d-scene-provider/public/office",
+    "last.objectTemplatePath": "E:/program/we-2d-scene/2d-scene-editor/public/factory",
+    "last.worldFilePath": "E:/program/we-2d-scene/2d-scene-editor/public/office",
+    "loadedWorlds": [
+        "E:/program/we-2d-scene/2d-scene-editor/public/office/cjd-world.world"
+    ],
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "map.tileWidth": 64,
+    "map.width": 30,
+    "openFiles": [
+        "office/test1.tmx",
+        "office/office5.tmx",
+        "office/office4.tmx",
+        "office/office3.tmx",
+        "office/office2.tmx",
+        "office/office1.tmx",
+        "office/office.tmx"
+    ],
+    "project": "office.tiled-project",
+    "recentFiles": [
+        "office/test1.tmx",
+        "office/office5.tmx",
+        "office/office4.tmx",
+        "office/office3.tmx",
+        "office/office2.tmx",
+        "office/office.tmx",
+        "office/office1.tmx",
+        "office/wall.json",
+        "office/制氧厂5号1层.tmx",
+        "office/carpet.json",
+        "office/carton.tsj",
+        "office/制氧厂5号_1层.tmx"
+    ],
+    "tileset.lastUsedFilter": "全部文件 (*)",
+    "tileset.lastUsedFormat": "json1",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 64
+    }
+}

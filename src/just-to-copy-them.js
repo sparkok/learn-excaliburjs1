@@ -1,0 +1,21 @@
+//引入的目的只是为了触发webpack.common.js中的打包行为
+import "../public/office/carpet.png"
+import "../public/office/carpet.json"
+import "../public/office/cubicles.png"
+import "../public/office/wall.json"
+import "../public/office/app.vue"
+import "../public/office/app-r.vue"
+import "../public/office/office.tmx"
+import "../public/office/test1.tmx"
+import '../public/office/httpVue3Loader.js'
+import '../public/office/vue2.js'
+import '../public/office/zoomin.png'
+import '../public/office/move.png'
+import '../public/office/zoomout.png'
+import '../public/office/select.png'
+import '../public/office/pan.png'
+import '../public/office/PinBlack.png'
+import '../public/office/PinPink.png'
+import '../public/office/no.png'
+import '../public/office/wall.png'
+import '../public/office/rightarrow.png'

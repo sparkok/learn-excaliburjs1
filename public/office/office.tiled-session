@@ -1,0 +1,315 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "制氧厂5号_1层.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "exportAsImage.drawObjectLabels": true,
+    "exportAsImage.drawTileGrid": false,
+    "exportAsImage.visibleLayersOnly": true,
+    "file.lastUsedOpenFilter": "全部文件 (*)",
+    "fileStates": {
+        "5号.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 456.3333333333333,
+                "y": 268
+            }
+        },
+        "C:/Users/86186/Downloads/office.tmx": {
+            "scale": 0.20558593749999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 637.2031160934829,
+                "y": 323.4657039711192
+            }
+        },
+        "C:/Users/86186/Downloads/office.tmx#carpet": {
+            "scaleInDock": 1
+        },
+        "C:/Users/86186/Downloads/office.tmx#chair": {
+            "scaleInDock": 1
+        },
+        "C:/Users/86186/Downloads/office.tmx#cubicles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/86186/Downloads/office/carpet.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/86186/Downloads/office/chair.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/public2/isometric/office_tiles/office/cjd-wall/1.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/public2/isometric/office_tiles/office/cjd-wall/cjd1.tmx": {
+            "scale": 0.126171875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 317.02786377708986,
+                "y": 166.43962848297224
+            }
+        },
+        "E:/program/we-isometric/2d-scene-editor/public/flat/frame.json": {
+            "scaleInDock": 1
+        },
+        "E:/program/we-isometric/2d-scene-editor/public/flat/office.tmx": {
+            "scale": 0.222359375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1337.924249877029,
+                "y": 957.9087906682594
+            }
+        },
+        "E:/program/we-isometric/2d-scene-editor/public/flat/video-device.json": {
+            "scaleInDock": 1
+        },
+        "E:/study/tiled-game/excalibur-tiled/example/example-city.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 850,
+                "y": 850
+            }
+        },
+        "E:/study/tiled-game/excalibur-tiled/example/example-city.tmx#Kenny RPG Urban Pack": {
+            "scaleInDock": 1
+        },
+        "E:/study/tiled-game/excalibur-tiled/example/example-city.tmx#embedded-collection": {
+            "scaleInDock": 1
+        },
+        "E:/study/tiled-game/excalibur-tiled/example/external-collection.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "E:/study/tiled-game/excalibur-tiled/example/external-collsion-json.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "E:/study/tiled-game/flat-video/frame.tsx": {
+            "scaleInDock": 1
+        },
+        "bold-grid.tsj": {
+            "scaleInDock": 1
+        },
+        "carpet.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "carton.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "chair.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "door.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dumbbell2.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grid.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 469.6969696969695,
+                "y": 0
+            }
+        },
+        "grid.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "icon.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 41.5,
+                "y": 113
+            }
+        },
+        "isometric1-small.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "my-cubicles.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new-office.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new-room.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 757.5757575757576,
+                "y": 612.1212121212121
+            }
+        },
+        "office.tmx#carpet": {
+            "scaleInDock": 1
+        },
+        "office.tmx#chair": {
+            "scaleInDock": 1
+        },
+        "office.tmx#cubicles": {
+            "scaleInDock": 1
+        },
+        "office1.tmx": {
+            "scale": 0.7859765625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 642.5127975746732,
+                "y": 320.6202475026092
+            }
+        },
+        "office1.tmx#carpet": {
+            "scaleInDock": 1
+        },
+        "office1.tmx#chair": {
+            "scaleInDock": 1
+        },
+        "office1.tmx#cubicles": {
+            "scaleInDock": 1
+        },
+        "office2.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1109.090909090909,
+                "y": 1309.090909090909
+            }
+        },
+        "office3.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 415,
+                "y": 145
+            }
+        },
+        "office4.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3832,
+                "y": 416
+            }
+        },
+        "office5.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -3376,
+                "y": 608
+            }
+        },
+        "roadTiles.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "safety_pin3.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "site.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1194.6666666666665,
+                "y": 352
+            }
+        },
+        "t.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "video-mini.tsj": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "vidio.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "wall.json": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.75
+        },
+        "制氧厂5号_1层.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1264,
+                "y": 192
+            }
+        }
+    },
+    "last.imagePath": "E:/program/we-2d-scene/we-2d-scene-editor/2d-scene-provider/public/office",
+    "last.worldFilePath": "E:/program/we-2d-scene/we-2d-scene-editor/2d-scene-provider/public/office",
+    "loadedWorlds": [
+        "E:/program/we-2d-scene/we-2d-scene-editor/2d-scene-provider/public/office/world1.world"
+    ],
+    "map.height": 20,
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "map.tileHeight": 65,
+    "map.tileWidth": 100,
+    "map.width": 20,
+    "mapScene.enableWorlds": true,
+    "openFiles": [
+        "制氧厂5号_1层.tmx",
+        "carpet.json",
+        "carton.tsj",
+        "door.tsj",
+        "my-cubicles.tsj",
+        "new-office.tsj",
+        "new-room.tsj",
+        "chair.json",
+        "wall.json"
+    ],
+    "project": "office.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "wall.json",
+        "chair.json",
+        "new-room.tsj",
+        "new-office.tsj",
+        "my-cubicles.tsj",
+        "door.tsj",
+        "carton.tsj",
+        "carpet.json",
+        "制氧厂5号_1层.tmx",
+        "dumbbell2.tsj",
+        "isometric1-small.tsj",
+        "office.tmx"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 64
+    }
+}

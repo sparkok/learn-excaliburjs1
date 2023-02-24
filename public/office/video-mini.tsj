@@ -1,0 +1,20 @@
+{ "columns":4,
+ "grid":
+    {
+     "height":32,
+     "orientation":"orthogonal",
+     "width":48
+    },
+ "image":"cubicles-video.png",
+ "imageheight":1152,
+ "imagewidth":256,
+ "margin":0,
+ "name":"video-mini",
+ "spacing":0,
+ "tilecount":36,
+ "tiledversion":"1.9.2",
+ "tileheight":128,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.9"
+}

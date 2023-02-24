@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "target": "es2015",
+    "module": "esnext",
+    "sourceMap": true,
+    "outDir": "./dist/",
+    "allowJs": true,
+  }
+}
