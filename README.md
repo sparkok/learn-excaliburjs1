@@ -3,5 +3,5 @@ this is just a excaliburjs learning project
 
 #run it:
 # yarn run dev
-![](screen.png)
+![](./screen.png)
 
